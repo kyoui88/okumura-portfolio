@@ -250,6 +250,13 @@ a {
   flex: 1;
 }
 
+.card-desc-note {
+  font-size: 11.5px;
+  color: #888;
+  line-height: 1.6;
+  margin-top: 8px;
+}
+
 /* Card Stats */
 .card-stats {
   display: flex;
